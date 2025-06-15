@@ -4,7 +4,8 @@
             <div class="flex">
                 <div class="shrink-0 flex items-center">
                     <a href="{{ route('dashboard') }}">
-                        <img src="{{ asset('images/logoWeb.png') }}" alt="" class="block h-1 w-auto">
+                        <!-- <img src="{{ asset('images/logoWeb.png') }}" alt="" class="block h-1 w-auto"> -->
+                        <img src="{{ asset('images/logoWeb.png') }}" alt="Logo Aplikasi" class="block" style="height: 20px; width: 20px;">
                         <!-- <x-application-logo class="block h-9 w-auto fill-current text-gray-800 dark:text-gray-200" /> -->
                     </a>
                 </div>
